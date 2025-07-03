@@ -15,5 +15,4 @@ Run this notebook on Google Colab to reproduce results.
 with open("README.md", "w") as f:
     f.write(readme_text)
 
-# Save requirements.txt
-!pip freeze > requirements.txt
+
